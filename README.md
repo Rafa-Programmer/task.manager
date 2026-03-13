@@ -112,6 +112,19 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ---
 
+## 📸 Screenshots
+
+### Login
+![Login](images/login.png)
+
+### Registo
+![Register](images/Registo.png)
+
+### Tarefas
+![Tasks](images/tasks.png)
+
+---
+
 ## 👨‍💻 Autor
 
 Rafa
