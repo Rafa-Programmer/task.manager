@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>As Minhas Tarefas</h1>
+
+        <div class="topbar">
+            <button onclick="logout()">Logout</button>
+        </div>
+        <form id="taskForm">
+            <input type="text" id="taskTitle" placeholder="Nova tarefa" required />
+            <button type="submit">Adicionar</button>
+        </form>
+
+        <ul id="taskList"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
